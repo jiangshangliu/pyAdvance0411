@@ -78,16 +78,3 @@ def printTitle(url):
         browser.quit()
 
 printTitle(url)
-
-# //*[@id="frs_list_pager"]/a[10]
-#//*[@id="frs_list_pager"]/a[12]
-
-
-
-
-
-
-
-
-
-
